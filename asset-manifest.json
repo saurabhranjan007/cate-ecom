@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/cate-ecom/static/js/main.dfa079a4.chunk.js",
+    "main.js.map": "/cate-ecom/static/js/main.dfa079a4.chunk.js.map",
+    "runtime-main.js": "/cate-ecom/static/js/runtime-main.de3e48ea.js",
+    "runtime-main.js.map": "/cate-ecom/static/js/runtime-main.de3e48ea.js.map",
+    "static/js/2.5268ef6a.chunk.js": "/cate-ecom/static/js/2.5268ef6a.chunk.js",
+    "static/js/2.5268ef6a.chunk.js.map": "/cate-ecom/static/js/2.5268ef6a.chunk.js.map",
+    "index.html": "/cate-ecom/index.html",
+    "static/js/2.5268ef6a.chunk.js.LICENSE.txt": "/cate-ecom/static/js/2.5268ef6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de3e48ea.js",
+    "static/js/2.5268ef6a.chunk.js",
+    "static/js/main.dfa079a4.chunk.js"
+  ]
+}
