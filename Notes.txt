@@ -1,0 +1,52 @@
+Note: In this whole application, I won't be using the standard CSS stylesheet. Instead in this project I'm using styled-components. 
+      Since styled-components make it easy to navigate and alter the style of the aplication in a much more organized way (personal opinion). 
+
+flex: 1; - this basically sets how a flex item will grow or shrink to fit the space available in the container.
+
+=>> The major concepts used in this application are: 
+      1. Styled components to customize and style the components and pages
+      2. Custom components to render out the different pages
+      3. The concept of Hooks (useState, useEffect)
+      4. Routing is done on two pages pages/components (REGISTER and SIGN IN)
+      5. 
+
+=>> align-items: controls the alignment of all the items on the cross axis.
+=>> justify-content: controls the alignment of all the items on the main axis.    
+
+=>> position: relative - places the element relative to it's parent position w/o changing the layout around it
+=>> position: absolute - places an element relative to it's parent's position and changing the layout around it 
+
+=>> vw - is actually a relative unit for width and it translates to width of the viewport. So to actually change the width, we can either change the viewport or increase the no. corresponding to vw..
+=>> vh - similarly vh is a relative unit for height and it translates to the height of the viewport. 
+
+
+FUNCTIONALITY + TASKS: 
+
+After the Slidder component, the homepage should render products component. 
+>> so create a product component and then render it thro Home.jsx
+
+After that comes the Products component: where the page will show a bunch of products
+mapped thro an array of product. 
+
+Then comes the time for Register and Login components and pages. Add routing, 
+
+>> so when the register is clicked the register page should open up and in that Announcement, Nav and Register
+component will render 
+
+>> and when the Login button is clicked, the page should route to the Login page and there
+Announcement, Nav and Login components should be rendered. 
+
+Also create a default route, which will render the Homepage and also create the Logo responsive so when someone clicks on it, it renders the Home page
+and renders Announcements, Nav, Slidder and Products components.
+
+Qs: 
+>> use div and for the styling directly define a style tag and then implement the styles as inline styling.. 
+>> make use of useStyles from Material UI to style the component..
+
+=>> flex-wrap: The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines. If wrapping is allowed, it sets the direction that lines are stacked.
+               It basically defines where the wrapping should be done, meaning if the items that are present should be inside the defined space.
+               Suppose the value of the 
+                        (flex-wrap: nowrap; - here in this case the items would just stack on one line and they might overflow from the defined space) 
+                        (flex-wrap: wrap; - here the items would stack up on multiple line if they are overflowing)
+                        (flex-wrap: wrap-reverse; - it basically follows the same property as "wrap" but in reversed order..)
+
