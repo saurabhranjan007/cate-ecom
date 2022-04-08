@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Cate./static/js/main.fc28af8a.chunk.js",
-    "main.js.map": "/Cate./static/js/main.fc28af8a.chunk.js.map",
-    "runtime-main.js": "/Cate./static/js/runtime-main.73642795.js",
-    "runtime-main.js.map": "/Cate./static/js/runtime-main.73642795.js.map",
-    "static/js/2.86a96e6e.chunk.js": "/Cate./static/js/2.86a96e6e.chunk.js",
-    "static/js/2.86a96e6e.chunk.js.map": "/Cate./static/js/2.86a96e6e.chunk.js.map",
-    "index.html": "/Cate./index.html",
-    "static/js/2.86a96e6e.chunk.js.LICENSE.txt": "/Cate./static/js/2.86a96e6e.chunk.js.LICENSE.txt"
+    "main.js": "/cate-ecom/static/js/main.dfa079a4.chunk.js",
+    "main.js.map": "/cate-ecom/static/js/main.dfa079a4.chunk.js.map",
+    "runtime-main.js": "/cate-ecom/static/js/runtime-main.de3e48ea.js",
+    "runtime-main.js.map": "/cate-ecom/static/js/runtime-main.de3e48ea.js.map",
+    "static/js/2.5268ef6a.chunk.js": "/cate-ecom/static/js/2.5268ef6a.chunk.js",
+    "static/js/2.5268ef6a.chunk.js.map": "/cate-ecom/static/js/2.5268ef6a.chunk.js.map",
+    "index.html": "/cate-ecom/index.html",
+    "static/js/2.5268ef6a.chunk.js.LICENSE.txt": "/cate-ecom/static/js/2.5268ef6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.73642795.js",
-    "static/js/2.86a96e6e.chunk.js",
-    "static/js/main.fc28af8a.chunk.js"
+    "static/js/runtime-main.de3e48ea.js",
+    "static/js/2.5268ef6a.chunk.js",
+    "static/js/main.dfa079a4.chunk.js"
   ]
 }
